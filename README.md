@@ -1,5 +1,7 @@
 ### Hi everyone 👋 I'm Evgeny Moiseev
 
+- ul 🔭 I’m currently studying at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java in [GeekBrains](https://gb.ru)
+
 <!--
 **IseeHorizont/IseeHorizont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
