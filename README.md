@@ -5,7 +5,8 @@
 Me on:
 + 🙈 [leetcode](https://leetcode.com/FunnyIcecream/)
 + 🙉 [hackerrank](https://www.hackerrank.com/IseeHorizont)
-+ 🙉 *there will be some activity here soon*😬
++ 🙊 *there will be some activity here soon* :bowtie:
+
 
 <!--
 **IseeHorizont/IseeHorizont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
