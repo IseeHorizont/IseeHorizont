@@ -1,6 +1,6 @@
 ### Hi everyone 👋 I'm Evgeny Moiseev
 
-- ⏳🎓 I’m currently studying at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java in [GeekBrains](https://gb.ru)
+- ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java in [GeekBrains](https://gb.ru)
 
 Me on:
 + 🙈 [leetcode](https://leetcode.com/FunnyIcecream/)
