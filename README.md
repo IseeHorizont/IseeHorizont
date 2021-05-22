@@ -5,7 +5,7 @@
 Me on:
 + 🙈 [leetcode](https://leetcode.com/FunnyIcecream/)
 + 🙉 [hackerrank](https://www.hackerrank.com/IseeHorizont)
-+ 🙊 *there will be some activity here soon* :bowtie:
++ 🙊 [JetBrains Academy](https://hyperskill.org/profile/41325357)
 
 
 <!--
