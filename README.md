@@ -3,8 +3,8 @@
 - ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java in [GeekBrains](https://gb.ru)
 
 Me on:
-+ 🙈 [leetcode](https://leetcode.com/FunnyIcecream/)
-+ 🙉 [hackerrank](https://www.hackerrank.com/IseeHorizont)
++ 🙈 [Leetcode](https://leetcode.com/FunnyIcecream/)
++ 🙉 [Hackerrank](https://www.hackerrank.com/IseeHorizont)
 + 🙊 [JetBrains Academy](https://hyperskill.org/profile/41325357)
 
 
