@@ -6,7 +6,7 @@ I'm Evgeny Moiseev
 Me on:
 + 🙈 [Leetcode](https://leetcode.com/FunnyIcecream/)
 + 🙉 [Hackerrank](https://www.hackerrank.com/IseeHorizont)
-+ 🙊 [JetBrains Academy](https://hyperskill.org/profile/41325357)
++ 🙊 [Stepik](https://stepik.org/users/175687776?preview=true)
 
 
 <!--
