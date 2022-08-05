@@ -1,12 +1,12 @@
 ### Hi everyone 👋 
 I'm Evgeny Moiseev
 
-- ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java in [GeekBrains](https://gb.ru)
+- ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java
 
 Me on:
 + 🙈 [Leetcode](https://leetcode.com/FunnyIcecream/)
 + 🙉 [Hackerrank](https://www.hackerrank.com/IseeHorizont)
-+ 🙊 [Stepik](https://stepik.org/users/175687776?preview=true)
++ 🙊 [Codewars](https://www.codewars.com/users/IseeHorizont)
 
 
 <!--
