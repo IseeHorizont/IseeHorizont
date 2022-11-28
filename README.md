@@ -3,6 +3,8 @@
 
 ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java
 
+📫 About me more (for hiring): [my cv on habr](https://career.habr.com/funnyicecream)
+
 ### Me on:
 
 | 🙈[Leetcode](https://leetcode.com/FunnyIcecream/)|🙉 [Codewars](https://www.codewars.com/users/IseeHorizont)| 🙊[Hackerrank](https://www.hackerrank.com/IseeHorizont) |
