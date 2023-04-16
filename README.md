@@ -1,5 +1,5 @@
 ## Hi everyone 👋 
-:snowflake: I'm Evgeny Moiseev :snowflake:
+:speech_balloon: I'm Evgeny Moiseev :octocat:
 
 ⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java
 
