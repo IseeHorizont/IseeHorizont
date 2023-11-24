@@ -7,7 +7,7 @@
 
 ### Me on:
 
-| 🙈[Leetcode](https://leetcode.com/FunnyIcecream/)|🙉 [Codewars](https://www.codewars.com/users/IseeHorizont)| 🙊[Hackerrank](https://www.hackerrank.com/IseeHorizont) |
+| 🙈[Leetcode]([https://leetcode.com/Evgeniy_Moiseev/])|🙉 [Codewars](https://www.codewars.com/users/IseeHorizont)| 🙊[Hackerrank](https://www.hackerrank.com/IseeHorizont) |
 | ---------------|----------------|----------------|
 | ![LeetCode Stats](https://leetcard.jacoblin.cool/FunnyIcecream?theme=light&font=Chelsea%20Market)|![Codewars' stats](https://www.codewars.com/users/IseeHorizont/badges/micro)| <img src="https://github.com/IseeHorizont/HackerRank-30-days-of-code/blob/7778b845afeecce2da8415c1b422fe318600b7fb/label30day.png" width="100" height="100"/> |
 
