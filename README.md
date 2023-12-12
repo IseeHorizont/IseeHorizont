@@ -1,7 +1,7 @@
 ## Hi everyone 👋 
-:speech_balloon: I'm Evgeny Moiseev :octocat:
+I'm Evgeny Moiseev :cactus:
 
-⏳🎓 I'm studying Java with Jetbrains/Hyperskill: https://hyperskill.org/profile/41325357
+🎓 I'm studying Java with Jetbrains/Hyperskill: https://hyperskill.org/profile/41325357
 
 📫 About me more (for hiring): [my cv on habr](https://career.habr.com/funnyicecream)
 
