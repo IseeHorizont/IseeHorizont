@@ -1,7 +1,7 @@
 ## Hi everyone 👋 
 :speech_balloon: I'm Evgeny Moiseev :octocat:
 
-⏳🎓 I currently have been getting my second higher education at [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/en) and the same time studying Java
+⏳🎓 I'm studying Java with Jetbrains/Hyperskill: https://hyperskill.org/profile/41325357
 
 📫 About me more (for hiring): [my cv on habr](https://career.habr.com/funnyicecream)
 
