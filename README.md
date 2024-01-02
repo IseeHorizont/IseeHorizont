@@ -1,7 +1,9 @@
 ## Hi everyone 👋 
 I'm Evgeny Moiseev :cactus:
 
-🎓 I'm studying Java/Spring almost everyday
+:bank: I work as a Automation QA Engineer on Java
+
+🎓 I'm studying Java/Spring almost everyday like a hobby
 
 📫 About me more: [my cv on habr](https://career.habr.com/funnyicecream)
 
