@@ -10,8 +10,8 @@
    
 #### 2023 - ...
 
-> graduated Tomsk State University of control systems and radioelectronics with a bachelor of software for engineering computer and automated systems
+> Graduated Tomsk State University of control systems and radioelectronics with a bachelor of software for engineering computer and automated systems
 
-> work as a Java software engineer at Bell Integrator, Moscow
+> Work as a Java software engineer at Bell Integrator, Moscow
 
 </details>
